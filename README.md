@@ -24,7 +24,10 @@ A small demo project with a NestJS backend and a Next.js frontend.
 - Port 5000 is used for the server, and port 3000 for the front-end.
 - Swagger UI is available at: http://localhost:5000/documentation
 
-More information about how to run the projects are avaiable in the `frontend/README.md` and `backend/README.md` files.
+More information about how to run the projects can be found at:
+
+- `frontend/README.md`
+- `backend/README.md`
 
 ## Deployment
 
